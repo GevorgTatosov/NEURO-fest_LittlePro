@@ -1,6 +1,4 @@
-# NEURO-fest_LittlePro
-
-Инструкция по запуску
+# Инструкция по запуску
 1. Выбрать версию Python 3.9
 2. Установить библиотеки с помощью команды python3 -m pip install -r requirements.txt
 3. Выполнить скрипт download_dataset.py
